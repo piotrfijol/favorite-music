@@ -1,1 +1,1 @@
-"" 
+App that allows you to search songs via spotify API. Moreover you'll be able to create a list of your favorite songs. Application is not finished yet.  I made my very own, basic PHP framework to help me accomplish it and set up my first REST API. There's still A LOT room for improvement and I'll try my best to improve as much as possible. Even though it is still not finished i have to say that it was a pretty fun exercise to do.
