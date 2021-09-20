@@ -1,0 +1,20 @@
+{
+    "name": "piotr/1",
+    "autoload": {
+        "psr-4": {
+            "Piotr\\1\\": "src/",
+            "Utils\\": "utils/",
+            "Controllers\\": "controllers/",
+            "Controllers\\Api\\V1\\": "controllers/api/v1/",
+            "Config\\": "config/"
+        }
+    },
+    "authors": [
+        {
+            "name": "piotrfijol",
+            "email": "piotr.fijol1@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
